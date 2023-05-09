@@ -36,4 +36,4 @@ Se você quer apoiar este projeto, deixe uma ⭐.
 
 ___
 
-This project was created with 💚 by [Daniel Feijó] (https://www.linkedin.com/in/danielmourafeijo/).
+Este projeto foi criado com :blue_heart: por  [Daniel Feijó] (https://www.linkedin.com/in/danielmourafeijo/).
